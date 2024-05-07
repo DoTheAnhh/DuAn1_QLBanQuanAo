@@ -1,0 +1,29 @@
+diff a/QLbanhang/nbproject/project.properties b/QLbanhang/nbproject/project.properties	(rejected hunks)
+@@ -35,12 +35,27 @@
+ dist.jlink.output=${dist.jlink.dir}/QLbanhang
+ endorsed.classpath=
+ excludes=
++file.reference.bridj-0.7.0.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\bridj-0.7.0.jar
++file.reference.commons-codec-1.12.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\commons-codec-1.12.jar
++file.reference.commons-collections4-4.3.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\commons-collections4-4.3.jar
++file.reference.commons-compress-1.18.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\commons-compress-1.18.jar
++file.reference.jakarta.activation-1.2.1.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\jakarta.activation-1.2.1.jar
+ file.reference.javax.mail-1.6.2.jar=C:\\Users\\Admin\\Downloads\\javax.mail-1.6.2.jar
+ file.reference.javax.mail-1.6.2.jar-1=C:\\Users\\Win10\\Downloads\\javax.mail-1.6.2.jar
+ file.reference.jcalendar-1.4.jar=C:\\JDBC_KN\\jcalendar-1.4.jar\\jcalendar-1.4.jar
+ file.reference.jcalendar-1.4.jar-1=C:\\Users\\Win10\\Downloads\\jcalendar-1.4.jar\\jcalendar-1.4.jar
++file.reference.jcommon-1.0.23.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\jcommon-1.0.23.jar
++file.reference.jfreechart-1.0.19.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\jfreechart-1.0.19.jar
+ file.reference.mssql-jdbc-10.2.1.jre8.jar=C:\\sqljdbc_10.2\\enu\\mssql-jdbc-10.2.1.jre8.jar
+ file.reference.mssql-jdbc-8.2.2.jre8.jar=C:\\JDBC_KN\\sqljdbc_8.2\\enu\\mssql-jdbc-8.2.2.jre8.jar
++file.reference.poi-4.1.0.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\poi-4.1.0.jar
++file.reference.poi-ooxml-4.1.0.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\poi-ooxml-4.1.0.jar
++file.reference.poi-ooxml-schemas-4.1.0.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\poi-ooxml-schemas-4.1.0.jar
++file.reference.slf4j-api-1.7.2.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\slf4j-api-1.7.2.jar
++file.reference.webcam-capture-0.3.12.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\webcam-capture-0.3.12.jar
++file.reference.xmlbeans-3.1.0.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\xmlbeans-3.1.0.jar
++file.reference.zxing-core-2.0.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\zxing-core-2.0.jar
++file.reference.zxing-javase.jar=D:\\DU AN1\\Th\u01b0 Vi\u1ec7n\\zxing-javase.jar
+ includes=**
+ jar.compress=false
+ javac.classpath=\
